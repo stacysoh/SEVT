@@ -1,5 +1,13 @@
 # SEVT
-Spatial methods to infer extremes in dengue outbreak risk
+
+# Spatial methods to infer extremes in dengue outbreak risk
+Contributors: Stacy Soh<sup>1</sup>, Soon Hoe Ho<sup>1</sup>, Annabel Seah<sup>1</sup>,  Janet Ong<sup>1</sup>, Daniel R Richards<sup>2</sup>, Leon Yan-Feng Gaw<sup>3</sup>, Borame Sue Dickens<sup>4</sup>, Ken Wei Tan<sup>4</sup>, Joel Ruihan Koo<sup>4</sup>, Alex R Cook<sup>4</sup>, Jue Tao Lim<sup>1,4</sup>
+
+## Affliations
+<sup>1</sup>Environmental Health Institute, National Environment Agency, Singapore<br/>
+<sup>2</sup>Manaaki Whenua - Landcare Research, New Zealand<br/>
+<sup>3</sup>Department of Architecture, School of Design and Environment, National University of Singapore, Singapore<br/>
+<sup>4</sup>Saw Swee Hock School of Public Health, National University of Singapore and National University Health System, Singapore<br/>
 
 ## Motivation
 Dengue  is  a  major  vector-borne  arboviral  disease  affecting  much  of  the  world.   Dengue outbreaks typically impose a strain on healthcare systems by increasing demand for healthcare resources.  However, little work has been done to characterise the spatial extent of these extreme dengue  outbreaks  and  their  associated  drivers.   In  this  paper,  we  examined  extreme  dengue outbreak risk over locales in Singapore from 2007 to 2020, accounting for spatial heterogeneity in these events using max-stable processes.  The return levels associated with the different sites, which were the weekly dengue case counts expected to be exceeded once every specific number of years, were then determined.  Return levels were consistently higher in the eastern parts of Singapore, with the maximum weekly dengue cases expected to exceed 51 cases at least once in 30 years in most spatial units (approximately 0.072 km each).  The age of public apartments and impervious surfaces had the largest impact on outbreak risk, driving up to a 3.8% and 3.3% increase respectively given a 3 year and 10% increase in the spatial unit.  Vegetation with human management, freshwater surfaces and population size were also associated with higher outbreak risk.  Our study extends standard tools used in Extreme Value Theory to conduct inference on the spatial behaviour of extreme dengue outbreak risk and its drivers.  Public health agencies should prioritise their vector control efforts in older residential estates and localities where there are  large  contiguous  masses  of  built-up  environment,  where  extreme  dengue  outbreak  risk  is high.  The developed methods and findings serve to inform public health officials on the likely scale of outbreaks in the longer term and may be used to inform long-term spatially resolved resource planning and risk mitigation
